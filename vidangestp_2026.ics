@@ -1,0 +1,679 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//VidangeSTP 2026//FR
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Vidanges Saint-Pacôme
+X-WR-TIMEZONE:America/Toronto
+BEGIN:VEVENT
+UID:2026_1_13_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260113
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_1_27_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260127
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_2_10_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260210
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_2_24_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260224
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_3_10_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260310
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_3_24_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260324
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_4_7_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260407
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_4_21_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260421
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_5_5_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260505
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_5_19_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260519
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_6_2_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260602
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_6_16_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260616
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_6_30_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260630
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_7_14_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260714
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_7_28_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260728
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_8_11_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260811
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_8_25_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260825
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_9_8_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_9_22_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260922
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_10_6_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261006
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_10_20_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261020
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_11_3_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261103
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_11_17_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261117
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_12_1_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261201
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_12_15_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261215
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_12_29_recyclage.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261229
+SUMMARY:Recyclage (Bac bleu)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Recyclage (Bac bleu)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_1_14_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260114
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_2_4_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260204
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_2_25_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260225
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_3_18_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260318
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_4_8_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260408
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_4_29_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260429
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_5_20_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260520
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_6_10_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260610
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_7_1_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260701
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_7_22_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260722
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_8_12_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260812
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_9_2_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260902
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_9_23_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260923
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_10_14_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261014
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_11_4_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261104
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_11_25_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261125
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_12_16_ordures.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261216
+SUMMARY:Ordures (Bac noir)
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Ordures (Bac noir)
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_1_12_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260112
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_2_2_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260202
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_3_2_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260302
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_4_6_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260406
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_5_4_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260504
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_6_1_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260601
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_7_6_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260706
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_8_17_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260817
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_9_8_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260908
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_10_13_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261013
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_11_2_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261102
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_12_7_conseil.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20261207
+SUMMARY:Conseil municipal
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Conseil municipal
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2026_9_10_encombrants.stpacome
+DTSTAMP:20260221T193640Z
+DTSTART;VALUE=DATE:20260910
+SUMMARY:Encombrants
+DESCRIPTION:C'est demain ! N'oubliez pas de sortir votre bac ce soir.
+BEGIN:VALARM
+TRIGGER:-PT5H
+ACTION:DISPLAY
+DESCRIPTION:Rappel de collecte : Encombrants
+END:VALARM
+END:VEVENT
+END:VCALENDAR
